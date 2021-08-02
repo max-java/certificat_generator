@@ -14,7 +14,7 @@
         List<Student> students = List.of(
                 new Student("Денис",  "Абрамов"),
                 new Student("Денис",  "Кайдунов"),
-                new Student("Екатерина",  "Булова"),
+                new Student("Ekaterina",  "Bulova"),
                 new Student("Владислав",  "Коляда"),
                 new Student("Александр",  "Мацкевич"),
                 new Student("Alexandr",  "Tulai"),
