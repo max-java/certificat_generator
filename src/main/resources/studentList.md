@@ -4,6 +4,7 @@
                 "01.07.2021");
         List<Student> students = List.of(
                 new Student("firstName",  "LastName"),
+                new Student("Olga", "Skyba"),
         );
 
         Course course = new Course("jis7", "Java Intensive",
