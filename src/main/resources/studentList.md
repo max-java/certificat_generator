@@ -19,7 +19,7 @@
                 new Student("Vladislav",  "Kolyada"),
                 new Student("Александр",  "Мацкевич"),
                 new Student("Alexandr",  "Tulai"),
-                new Student("Максим",  "Бучинский"),
+                new Student("Maksim",  "Buchynski"),
                 new Student("Сергей",  "Асанов"),
                 new Student("Александр",  "Каспирович")
         );
