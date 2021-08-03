@@ -21,7 +21,7 @@
                 new Student("Alexandr",  "Tulai"),
                 new Student("Максим",  "Бучинский"),
                 new Student("Сергей",  "Асанов"),
-                new Student("Александр",  "Каспирович")
+                new Student("Alexandr",  "Kaspirovich")
         );
 
         Course course = new Course("jis8", "Java Intensive",
