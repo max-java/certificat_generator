@@ -12,7 +12,7 @@ public class Application {
 
     public static void main(String[] args) throws Exception {
         List<Student> students = List.of(
-                new Student("Денис",  "Абрамов"),
+                new Student("Denis",  "Abramov"),
                 new Student("Денис",  "Кайдунов"),
                 new Student("Екатерина",  "Булова"),
                 new Student("Владислав",  "Коляда"),
