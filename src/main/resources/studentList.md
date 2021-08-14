@@ -6,6 +6,7 @@
                 new Student("Olga", "Skyba"),
                 new Student("Liudmila",  "Zhdanok"),
                 new Student("Pikus", "Denis"),
+                new Student("Vladimir", "Petranovsky")
         );
 
         Course course = new Course("jis7", "Java Intensive",
