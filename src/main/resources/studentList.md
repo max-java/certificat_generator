@@ -52,4 +52,4 @@
                 new Student("Yaroslav",  "Zhimanov"),
                 new Student("Запанкова",  "Таня"),
                 new Student("Оксана",  "Юрьева")
-        );     
+        );
