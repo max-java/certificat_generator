@@ -8,6 +8,8 @@
                 new Student("Pikus", "Denis"),
                 new Student ("Irina", "Drozdovskaya"),
                 new Student ("Ekaterina", "Rinkevich"),
+                new Student("Vladimir", "Petranovsky")
+
         );
 
         Course course = new Course("jis7", "Java Intensive",
@@ -17,13 +19,13 @@
         List<Student> students = List.of(
                 new Student("Денис",  "Абрамов"),
                 new Student("Denis",  "Kaydunov"),
-                new Student("Екатерина",  "Булова"),
+                new Student("Ekaterina",  "Bulova"),
                 new Student("Vladislav",  "Kolyada"),
                 new Student("Александр",  "Мацкевич"),
                 new Student("Alexandr",  "Tulai"),
-                new Student("Максим",  "Бучинский"),
+                new Student("Maksim",  "Buchynski"),
                 new Student("Сергей",  "Асанов"),
-                new Student("Александр",  "Каспирович")
+                new Student("Alexandr",  "Kaspirovich")
         );
 
         Course course = new Course("jis8", "Java Intensive",
